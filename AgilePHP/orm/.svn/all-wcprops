@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/agilephp/!svn/ver/188/trunk/src/orm
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/agilephp/!svn/ver/170/trunk/src/orm/Column.php
+END
+orm.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/agilephp/!svn/ver/179/trunk/src/orm/orm.dtd
+END
+Transactional.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/167/trunk/src/orm/Transactional.php
+END
+ProcedureParam.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/172/trunk/src/orm/ProcedureParam.php
+END
+Id.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/agilephp/!svn/ver/173/trunk/src/orm/Id.php
+END
+ForeignKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/agilephp/!svn/ver/167/trunk/src/orm/ForeignKey.php
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/agilephp/!svn/ver/176/trunk/src/orm/Database.php
+END
+IdentityMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/agilephp/!svn/ver/164/trunk/src/orm/IdentityMap.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/agilephp/!svn/ver/173/trunk/src/orm/Table.php
+END
+NamedQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/agilephp/!svn/ver/176/trunk/src/orm/NamedQuery.php
+END
+ORMFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/agilephp/!svn/ver/173/trunk/src/orm/ORMFactory.php
+END
+Procedure.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/173/trunk/src/orm/Procedure.php
+END
+ORMException.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/agilephp/!svn/ver/110/trunk/src/orm/ORMException.php
+END
+DomainModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/agilephp/!svn/ver/188/trunk/src/orm/DomainModel.php
+END

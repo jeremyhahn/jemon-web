@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/agilephp/!svn/ver/188/trunk/src/webservice/rest
+END
+RestUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/188/trunk/src/webservice/rest/RestUtil.php
+END
+GET.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/agilephp/!svn/ver/146/trunk/src/webservice/rest/GET.php
+END
+DELETE.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/DELETE.php
+END
+RestServiceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/RestServiceException.php
+END
+RestClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/RestClient.php
+END
+PUT.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/agilephp/!svn/ver/188/trunk/src/webservice/rest/PUT.php
+END
+RestClientException.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/RestClientException.php
+END
+ConsumeMime.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/ConsumeMime.php
+END
+POST.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/agilephp/!svn/ver/188/trunk/src/webservice/rest/POST.php
+END
+RestService.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/166/trunk/src/webservice/rest/RestService.php
+END
+ProduceMime.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/ProduceMime.php
+END
+Path.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/rest/Path.php
+END

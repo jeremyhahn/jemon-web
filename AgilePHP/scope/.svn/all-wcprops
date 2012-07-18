@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/agilephp/!svn/ver/164/trunk/src/scope
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/164/trunk/src/scope/Session.php
+END
+SessionProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/agilephp/!svn/ver/123/trunk/src/scope/SessionProvider.php
+END
+Stateful.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/agilephp/!svn/ver/160/trunk/src/scope/Stateful.php
+END
+OrmSessionProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/160/trunk/src/scope/OrmSessionProvider.php
+END
+SessionScope.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/143/trunk/src/scope/SessionScope.php
+END
+PhpSessionProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/160/trunk/src/scope/PhpSessionProvider.php
+END
+ApplicationScope.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/160/trunk/src/scope/ApplicationScope.php
+END
+RequestScope.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/160/trunk/src/scope/RequestScope.php
+END

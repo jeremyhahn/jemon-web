@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/agilephp/!svn/ver/184/trunk/src/orm/dialect
+END
+SQLDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/172/trunk/src/orm/dialect/SQLDialect.php
+END
+SQLiteDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/164/trunk/src/orm/dialect/SQLiteDialect.php
+END
+MSSQLDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/184/trunk/src/orm/dialect/MSSQLDialect.php
+END
+PGSQLDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/176/trunk/src/orm/dialect/PGSQLDialect.php
+END
+MySQLDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/176/trunk/src/orm/dialect/MySQLDialect.php
+END
+BaseDialect.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/190/trunk/src/orm/dialect/BaseDialect.php
+END

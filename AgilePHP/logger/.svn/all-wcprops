@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger
+END
+LogFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/LogFactory.php
+END
+Audit.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/Audit.php
+END
+FileLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/FileLogger.php
+END
+SysLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/SysLogger.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/Logger.php
+END
+LogProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/160/trunk/src/logger/LogProvider.php
+END

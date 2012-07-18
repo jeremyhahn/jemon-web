@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orm SYSTEM "AgilePHP/orm/orm.dtd">
+<orm>
+	<database name="jemon" type="mysql" hostname="localhost" username="jemon" password="jemon007">
+
+		<table name="channel" model="Channel" display="Channel" description="Mains AC Phase">
+			<column name="real_power" property="realPower" display="Real Power" type="double" validator="NumberValidator"/>
+			<column name="apparent_power" property="apparentPower" display="Apparent Power" type="double" validator="NumberValidator"/>
+			<column name="power_factor" property="powerFactor" display="Power Factor" type="double" validator="NumberValidator"/>
+			<column name="vrms" display="Vrms" type="double" validator="NumberValidator"/>
+			<column name="irms" display="Irms" type="double" validator="NumberValidator"/>
+			<column name="wh_inc" display="Watt Hours Inc?" property="whInc" type="double" validator="NumberValidator"/>
+			<column name="wh" display="Watt Hours" type="double" validator="NumberValidator" />
+			<column name="phase" type="int" validator="NumberValidator"/>
+			<column name="timestamp" type="timestamp"/>
+		</table>
+
+		<procedure name="channel_get_range" model="SPChannelReport" description="Stored procedure responsible for getting last 24 hours worth of power samples">
+			<parameter name="start_date" property="startDate" mode="IN"/>
+			<parameter name="end_date" property="endDate" mode="IN"/>
+			<parameter name="real_power" property="realPower" mode="OUT"/>
+			<parameter name="apparent_power" property="apparentPower" mode="OUT"/>
+			<parameter name="power_factor" property="powerFactor" mode="OUT"/>
+			<parameter name="vrms" mode="OUT"/>
+			<parameter name="irms" mode="OUT"/>
+			<parameter name="wh_inc" property="whInc" mode="OUT"/>
+			<parameter name="wh" mode="OUT"/>
+			<parameter name="phase" mode="OUT"/>
+			<parameter name="timestamp" mode="OUT"/>
+		</procedure>
+
+	</database>
+</orm>

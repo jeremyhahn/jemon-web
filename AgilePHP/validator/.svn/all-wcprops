@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/agilephp/!svn/ver/185/trunk/src/validator
+END
+IPv6Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/IPv6Validator.php
+END
+EmailWithDnsCheckValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/agilephp/!svn/ver/185/trunk/src/validator/EmailWithDnsCheckValidator.php
+END
+EmailValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/185/trunk/src/validator/EmailValidator.php
+END
+NumberValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/NumberValidator.php
+END
+StrongPasswordValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/StrongPasswordValidator.php
+END
+PasswordValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/PasswordValidator.php
+END
+ValidationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/ValidationException.php
+END
+FloatValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/FloatValidator.php
+END
+ObjectValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/ObjectValidator.php
+END
+StringValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/StringValidator.php
+END
+DateValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/DateValidator.php
+END
+ArrayValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/ArrayValidator.php
+END
+BooleanValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/BooleanValidator.php
+END
+LengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/LengthValidator.php
+END
+IPv4Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/179/trunk/src/validator/IPv4Validator.php
+END

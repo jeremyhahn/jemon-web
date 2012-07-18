@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/agilephp/!svn/ver/188/trunk/src/mvc
+END
+XSLTRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/agilephp/!svn/ver/160/trunk/src/mvc/XSLTRenderer.php
+END
+ExtFormRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/agilephp/!svn/ver/160/trunk/src/mvc/ExtFormRenderer.php
+END
+BaseModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/188/trunk/src/mvc/BaseModel.php
+END
+BaseModelActionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/agilephp/!svn/ver/183/trunk/src/mvc/BaseModelActionController.php
+END
+BaseModelXmlController.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/173/trunk/src/mvc/BaseModelXmlController.php
+END
+BaseController.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/162/trunk/src/mvc/BaseController.php
+END
+PHTMLRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/160/trunk/src/mvc/PHTMLRenderer.php
+END
+ComponentModelActionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/agilephp/!svn/ver/163/trunk/src/mvc/ComponentModelActionController.php
+END
+AJAXRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/agilephp/!svn/ver/184/trunk/src/mvc/AJAXRenderer.php
+END
+BaseModelController.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/163/trunk/src/mvc/BaseModelController.php
+END
+BaseRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/agilephp/!svn/ver/160/trunk/src/mvc/BaseRenderer.php
+END
+BaseModelXslController.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/179/trunk/src/mvc/BaseModelXslController.php
+END

@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title><?php echo $title ?></title>
+		<link href="/view/css/style.css" type="text/css" rel="stylesheet"/>
+	</head>
+
+	<body>
+		<div id="container">
+
+<!--
+			<table border="1" cellspacing="1" cellpadding="1">
+			<tr>
+			    <th>Real Power 1</th>
+			    <th>Apaprent Power 1</th>
+			    <th>Power Factor 1</th>
+			    <th>Vrms Power 1</th>
+			    <th>Irms Power 1</th>
+			    <th>wh Inc 1</th>
+			    <th>wh 1</th>
+			    <th>Real Power 2</th>
+			    <th>Apaprent Power 2</th>
+			    <th>Power Factor 2</th>
+			    <th>Vrms Power 2</th>
+			    <th>Irms Power 2</th>
+			    <th>wh Inc 2</th>
+			    <th>wh 2</th>
+			</tr>
+			<?php
+
+			   /*
+			   for($i = 0; $i<count($ch1Data); $i++) {
+
+			       echo @'<tr>' .
+			              '<td>' . $ch1Data[$i]->getRealPower() . '</td>' .
+			       	      '<td>' . $ch1Data[$i]->getApparentPower() . '</td>' .
+			              '<td>' . $ch1Data[$i]->getPowerFactor() . '</td>' .
+			              '<td>' . $ch1Data[$i]->getVrms() . '</td>' .
+			              '<td class="irms">' . $ch1Data[$i]->getIrms() . '</td>' .
+			              '<td>' . $ch1Data[$i]->getWhInc() . '</td>' .
+			              '<td>' . $ch1Data[$i]->getWh() . '</td>' .
+			              '<td>' . $ch2Data[$i]->getRealPower() . '</td>' .
+			       	      '<td>' . $ch2Data[$i]->getApparentPower() . '</td>' .
+			              '<td>' . $ch2Data[$i]->getPowerFactor() . '</td>' .
+			              '<td>' . $ch2Data[$i]->getVrms() . '</td>' .
+			              '<td class="irms">' . $ch2Data[$i]->getIrms() . '</td>' .
+			              '<td>' . $ch2Data[$i]->getWhInc() . '</td>' .
+			              '<td>' . $ch2Data[$i]->getWh() . '</td>' .
+			           '</tr>';
+			   }
+			   */
+			?>
+			</table>
+-->
+			<div id="iframe-graph">
+				<iframe src="/index.php/IndexController/graph" frameborder="0" width="1200" height="1150"></iframe>
+			</div>
+    	</div>
+
+	</body>
+</html>

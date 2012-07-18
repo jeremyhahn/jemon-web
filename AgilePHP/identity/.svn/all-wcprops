@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/agilephp/!svn/ver/188/trunk/src/identity
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/188/trunk/src/identity/Role.php
+END
+Authentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/179/trunk/src/identity/Authentication.php
+END
+Password.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/160/trunk/src/identity/Password.php
+END
+IdentityManagerFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/agilephp/!svn/ver/143/trunk/src/identity/IdentityManagerFactory.php
+END
+Restrict.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/180/trunk/src/identity/Restrict.php
+END
+BasicResetPasswdMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/agilephp/!svn/ver/143/trunk/src/identity/BasicResetPasswdMailer.php
+END
+BasicAuthentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/agilephp/!svn/ver/160/trunk/src/identity/BasicAuthentication.php
+END
+LoggedIn.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/agilephp/!svn/ver/160/trunk/src/identity/LoggedIn.php
+END
+BasicRegistrationMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/agilephp/!svn/ver/143/trunk/src/identity/BasicRegistrationMailer.php
+END
+IdentityModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/160/trunk/src/identity/IdentityModel.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/agilephp/!svn/ver/188/trunk/src/identity/User.php
+END
+IdentityManagerImpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/agilephp/!svn/ver/173/trunk/src/identity/IdentityManagerImpl.php
+END
+IdentityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/agilephp/!svn/ver/129/trunk/src/identity/IdentityManager.php
+END
+AccessDeniedException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/agilephp/!svn/ver/110/trunk/src/identity/AccessDeniedException.php
+END
+DefaultAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/agilephp/!svn/ver/146/trunk/src/identity/DefaultAuthenticator.php
+END
+IdentityUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/160/trunk/src/identity/IdentityUtils.php
+END
+BasicForgotPasswdMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/agilephp/!svn/ver/143/trunk/src/identity/BasicForgotPasswdMailer.php
+END
+NotLoggedInException.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/agilephp/!svn/ver/110/trunk/src/identity/NotLoggedInException.php
+END

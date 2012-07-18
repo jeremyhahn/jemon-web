@@ -1,0 +1,110 @@
+<html>
+	<head>
+	    <title><?php echo $title ?></title>
+	    <meta http-equiv="refresh" content="620" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<link href="/view/css/style.css" type="text/css" rel="stylesheet"/>
+		<link href="/view/css/timepicker.css" type="text/css" rel="stylesheet"/>
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css">
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/smoothness/jquery-ui.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+		<script type="text/javascript" src="/AgilePHP/AgilePHP.js"></script>
+		<script type="text/javascript" src="/view/js/timepicker.js"></script>
+		<script type="text/javascript" src="/view/js/dashboard.js"></script>
+	</head>
+
+	<body>
+
+    <div id="header">
+    	<p>JEMon :: Energy Monitor</p>
+    </div>
+
+	<div id="container">
+
+        <div id="container3">
+        	<div id="container2">
+        		<div id="container1">
+
+        			<div id="col1">
+    					<p class="spacer"> </p>
+
+    					<fieldset>
+    					<legend>Reports</legend>
+            			    <select id="cannedReport">
+            			        <option selected value="<?php echo date('Y-m-d', strtotime('today')); ?>">----</option>
+            			        <option value="<?php echo date('Y-m-d', strtotime('today')); ?>">Today</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('yesterday')); ?>">Yesterday</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-2 day')); ?>">2 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-3 day')); ?>">3 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-4 day')); ?>">4 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-5 day')); ?>">5 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-6 day')); ?>">6 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-7 day')); ?>">7 Days Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-1 week')); ?>">Last Week</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-2 week')); ?>">2 Weeks Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-3 week')); ?>">3 Weeks Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-4 week')); ?>">4 Weeks Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-1 month')); ?>">Last Month</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-2 month')); ?>">2 Months Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-3 month')); ?>">3 Months Ago</option>
+            			    	<option value="<?php echo date('Y-m-d', strtotime('-4 month')); ?>">4 Months Ago</option>
+            			    </select>
+        			    </fieldset>
+    
+        			    <div id="date-range-selection">
+        			        <fieldset>
+        			        <legend>Custom</legend>
+    
+        			    	<p>Start Date:</p>
+        			    	<input id="date-range-1" class="date-range" type="text" name="date-range-1"/>
+    
+        			    	<p class="spacer"> </p>
+    
+        			    	<p>End Date:</p>
+        			    	<input id="date-range-2" class="date-range" type="text" name="date-range-2"/>
+    
+        			    	<br/>
+        			    	<br/>
+        			    	<input type="button" id="date-range-button" value="Search"/>
+        			    	</fieldset>
+        			    </div>
+        			</div>
+    
+        			<div id="col2">
+        			    <div id="loading-bar">
+        			    	<img src="/view/images/ajax-loader.gif"/>
+        			    	Generating report...
+        			    </div>
+    
+        			    <a id="center-image-link" href="/generated/jemon-graph-today-big.png" target="_blank">
+        					<img id="center-image" src="/generated/jemon-graph-today-center.png" border="0"/>
+        				</a>
+        			</div>
+    
+        			<div id="col3">
+    
+    					<a href="/generated/jemon-graph-today-big.png" target="_blank">
+        			    	<img src="/generated/jemon-graph-today-small.png" border="0"/>
+        			    </a>
+    
+        			    <a href="/generated/jemon-graph-yesterday-big.png" target="_blank">
+        			    	<img src="/generated/jemon-graph-yesterday-small.png" border="0"/>
+        			    </a>
+    
+    					<a href="/generated/jemon-graph-mtd-big.png" target="_blank">
+        			    	<img src="/generated/jemon-graph-mtd-small.png" border="0"/>
+        			    </a>
+        			</div>
+
+        		</div>
+        	</div>
+        </div>
+    </div>
+
+    <div id="footer">
+    	<p>Copyright &copy; 2012 Make A Byte, inc.</p>
+    </div>
+
+	</body>
+</html>

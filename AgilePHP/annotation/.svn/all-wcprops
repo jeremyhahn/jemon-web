@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/agilephp/!svn/ver/167/trunk/src/annotation
+END
+AnnotatedMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/165/trunk/src/annotation/AnnotatedMethod.php
+END
+AnnotatedProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/agilephp/!svn/ver/165/trunk/src/annotation/AnnotatedProperty.php
+END
+AnnotationParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/167/trunk/src/annotation/AnnotationParser.php
+END
+AnnotationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/agilephp/!svn/ver/110/trunk/src/annotation/AnnotationException.php
+END
+AnnotatedClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/164/trunk/src/annotation/AnnotatedClass.php
+END

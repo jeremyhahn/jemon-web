@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/remoting
+END
+RemoteMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/agilephp/!svn/ver/101/trunk/src/webservice/remoting/RemoteMethod.php
+END
+RemotingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/remoting/RemotingException.php
+END

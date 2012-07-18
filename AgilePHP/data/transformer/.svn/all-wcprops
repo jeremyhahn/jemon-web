@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/agilephp/!svn/ver/188/trunk/src/data/transformer
+END
+JsonToModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/agilephp/!svn/ver/188/trunk/src/data/transformer/JsonToModel.php
+END
+XmlToModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/167/trunk/src/data/transformer/XmlToModel.php
+END
+YamlToModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/agilephp/!svn/ver/146/trunk/src/data/transformer/YamlToModel.php
+END
+DataTransformer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/agilephp/!svn/ver/146/trunk/src/data/transformer/DataTransformer.php
+END
+TransformException.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/agilephp/!svn/ver/188/trunk/src/data/transformer/TransformException.php
+END
+YesNoToBoolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/agilephp/!svn/ver/146/trunk/src/data/transformer/YesNoToBoolean.php
+END

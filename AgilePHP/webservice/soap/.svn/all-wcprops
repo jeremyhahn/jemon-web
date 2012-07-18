@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap
+END
+SOAPBinding.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap/SOAPBinding.php
+END
+SOAPService.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap/SOAPService.php
+END
+WebService.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap/WebService.php
+END
+WSDL.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap/WSDL.php
+END
+WebMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/agilephp/!svn/ver/160/trunk/src/webservice/soap/WebMethod.php
+END

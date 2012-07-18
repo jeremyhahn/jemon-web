@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer
+END
+MailerAttachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer/MailerAttachment.php
+END
+MailerMacro.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer/MailerMacro.php
+END
+MailerListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer/MailerListener.php
+END
+MailerException.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer/MailerException.php
+END
+MailerTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/agilephp/!svn/ver/184/trunk/src/mailer/MailerTemplate.php
+END

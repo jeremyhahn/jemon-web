@@ -1,0 +1,285 @@
+#container {
+
+	width: 1200px;
+	margin: 0px auto;	
+}
+
+#header p {
+	margin-left:2%;
+	padding-right:2%;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#container3 {
+    float:left;
+    width:100%;
+    overflow:hidden;
+    position:relative;
+}
+#container2 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:30%;
+}
+#container1 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:40%;
+}
+#col1 {
+    float:left;
+    width:165px;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+#col2 {
+    float:left;
+    width:650px;
+    position:relative;
+    left:76%;
+    overflow:hidden;
+}
+#col3 {
+    float:left;
+    width:200px;
+    position:relative;
+    left:80%;
+    overflow:hidden;
+}
+
+#footer {
+	clear:both;
+	float:left;
+	width:100%;
+	margin: 0px auto;
+}
+#footer p {
+	margin-left:2%;
+	padding-right:2%;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#date-range-selection {
+	margin-top: 25px;
+}
+
+#date-range-selection p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.spacer {
+	padding: 5px 0px 5px 0px;
+}
+
+.date-range {
+	width: 140px;	
+}
+
+.irms {
+
+	color: blue;
+}
+
+/*
+#container {
+
+	width: 1200px;
+	margin: 0px auto;	
+}
+
+#header p {
+	margin-left:2%;
+	padding-right:2%;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#container3 {
+    float:left;
+    width:100%;
+    overflow:hidden;
+    position:relative;
+}
+#container2 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:30%;
+}
+#container1 {
+    float:left;
+    width:100%;
+    position:relative;
+    right:40%;
+}
+#col1 {
+    float:left;
+    width:165px;
+    position:relative;
+    left:70%;
+    overflow:hidden;
+}
+#col2 {
+    float:left;
+    width:650px;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+#col3 {
+    float:left;
+    width:350px;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+
+#footer {
+	clear:both;
+	float:left;
+	width:100%;
+	margin: 0px auto;
+}
+#footer p {
+	margin-left:2%;
+	padding-right:2%;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#date-range-selection {
+	margin-top: 25px;
+}
+
+#date-range-selection p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.spacer {
+	padding: 5px 0px 5px 0px;
+}
+
+.date-range {
+	width: 140px;	
+}
+
+.irms {
+
+	color: blue;
+}
+*/
+
+/** AgilePHP Styles */
+
+a {
+
+	text-decoration: none;	
+}
+
+.info {
+
+	font-family: tahoma;
+	font-size: 12px;	
+}
+
+.error {
+
+	font-family:tahoma;
+	font-size: 12px;
+	color: #FF0000;
+}
+
+.agilephpSearchBar {
+
+	text-align: center;
+	font-size: 12px;
+	padding-bottom: 25px;
+}
+
+.agilephpSearchBar input, .agilephpSearchBar select {
+
+	font-size: 12px;
+}
+
+.agilephpTableDescription {
+
+	color: #000000;
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight: bolder;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 25px;
+}
+
+.agilephpTable {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 16px;
+	border-collapse: collapse;
+}
+
+.agilephpHeader {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 11px;
+	text-decoration: none;
+}
+
+.agilephpHighlight {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 10px;
+	background-color: #C9C9C9;
+}
+
+.agilephpRow1 {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 10px;
+	background-color: #FFFFFF;
+}
+
+.agilephpRow2 {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 10px;
+	background-color: #F9F9F9;
+}
+
+.agilephpPaginationTable {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 10px;
+}
+
+.agilephpPaginationHeader {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 12px;
+}
+
+.agilephpPaginationRecordCount {
+
+	color: #636363;
+	font-family: tahoma;
+	font-size: 12px;
+}
